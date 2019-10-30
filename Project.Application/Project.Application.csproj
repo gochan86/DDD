@@ -36,6 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -67,6 +68,10 @@
     <ProjectReference Include="..\Project.Data.Domain\Project.Domain.csproj">
       <Project>{582DE563-9D29-4195-B7CA-64521AA547AA}</Project>
       <Name>Project.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.Tools\Project.Tools.csproj">
+      <Project>{A7FC35B3-E4BC-41BB-BFF9-0335E2AE83D1}</Project>
+      <Name>Project.Tools</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

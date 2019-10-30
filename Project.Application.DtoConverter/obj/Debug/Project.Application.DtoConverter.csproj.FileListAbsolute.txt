@@ -9,3 +9,14 @@ C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\bin\Debug\Project.D
 C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.csproj.CopyComplete
 C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.dll
 C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.pdb
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\bin\Debug\Project.Application.DtoConverter.dll
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\bin\Debug\Project.Application.DtoConverter.pdb
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\bin\Debug\Project.Application.Dto.dll
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\bin\Debug\Project.Data.Domain.dll
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\bin\Debug\Project.Application.Dto.pdb
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\bin\Debug\Project.Data.Domain.pdb
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.csprojAssemblyReference.cache
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.csproj.CoreCompileInputs.cache
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.csproj.CopyComplete
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.dll
+C:\Users\david.gonzalez\Source\Repos\DDD\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.pdb
