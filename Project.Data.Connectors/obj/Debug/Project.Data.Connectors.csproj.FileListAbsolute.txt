@@ -1,0 +1,12 @@
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\bin\Debug\Project.Data.Connectors.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\bin\Debug\Project.Data.Connectors.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\bin\Debug\Project.Data.Domain.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\bin\Debug\Project.Data.Domain.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\obj\Debug\Project.Data.Connectors.csprojAssemblyReference.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\obj\Debug\Project.Data.Connectors.csproj.CoreCompileInputs.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\obj\Debug\Project.Data.Connectors.csproj.CopyComplete
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\obj\Debug\Project.Data.Connectors.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\obj\Debug\Project.Data.Connectors.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\bin\Debug\Newtonsoft.Json.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\bin\Debug\Newtonsoft.Json.xml
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Connectors\bin\Debug\Newtonsoft.Json.pdb

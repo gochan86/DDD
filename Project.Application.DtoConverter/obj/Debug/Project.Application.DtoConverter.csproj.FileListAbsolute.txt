@@ -1,0 +1,11 @@
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.csprojAssemblyReference.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.csproj.CoreCompileInputs.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\bin\Debug\Project.Application.DtoConverter.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\bin\Debug\Project.Application.DtoConverter.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\bin\Debug\Project.Application.Dto.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\bin\Debug\Project.Data.Domain.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\bin\Debug\Project.Application.Dto.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\bin\Debug\Project.Data.Domain.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.csproj.CopyComplete
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.DtoConverter\obj\Debug\Project.Application.DtoConverter.pdb

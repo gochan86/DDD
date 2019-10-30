@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{389AA6F8-7EAF-4DB0-AE05-502A1243E57D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project.Crosscutting.Bootstrapper</RootNamespace>
+    <AssemblyName>Project.Crosscutting.Bootstrapper</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IocRegistration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Project.Application.Core\Project.Application.Core.csproj">
+      <Project>{3C6F2CEF-652F-4003-98C1-B39681CCFD3B}</Project>
+      <Name>Project.Application.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.Application.Dto\Project.Application.Dto.csproj">
+      <Project>{9A88BAF6-A1B1-45C2-B8A0-840ED0919A80}</Project>
+      <Name>Project.Application.Dto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.Application\Project.Application.csproj">
+      <Project>{4FBE4E8D-3EF1-444B-80F3-55B8A0D83829}</Project>
+      <Name>Project.Application</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.Data.Connectors\Project.Data.Connectors.csproj">
+      <Project>{DE07CEA8-2261-4AE7-934E-FEEEBE3E2440}</Project>
+      <Name>Project.Data.Connectors</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.Data.Domain\Project.Domain.csproj">
+      <Project>{582DE563-9D29-4195-B7CA-64521AA547AA}</Project>
+      <Name>Project.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.Data.WebApi\Project.Data.WebApi.csproj">
+      <Project>{17782F32-4941-46F4-9464-A7BEDF405736}</Project>
+      <Name>Project.Data.WebApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Project.Tools\Project.Tools.csproj">
+      <Project>{A7FC35B3-E4BC-41BB-BFF9-0335E2AE83D1}</Project>
+      <Name>Project.Tools</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

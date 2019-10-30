@@ -1,0 +1,15 @@
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\obj\Debug\Project.Application.Core.csprojAssemblyReference.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\obj\Debug\Project.Application.Core.csproj.CoreCompileInputs.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Project.Application.Core.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Project.Application.Core.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Project.Application.Dto.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Project.Tools.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Project.Application.Dto.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Project.Tools.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\obj\Debug\Project.Application.Core.csproj.CopyComplete
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\obj\Debug\Project.Application.Core.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\obj\Debug\Project.Application.Core.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Project.Application.Core.dll.config
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Microsoft.Practices.Unity.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Project.Tools.dll.config
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Core\bin\Debug\Microsoft.Practices.Unity.xml

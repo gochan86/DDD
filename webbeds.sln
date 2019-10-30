@@ -1,0 +1,149 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{3264795D-C4B7-4E68-B18C-13D204E687FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Data.WebApi", "Project.Data.WebApi\Project.Data.WebApi.csproj", "{17782F32-4941-46F4-9464-A7BEDF405736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Data.Connectors", "Project.Data.Connectors\Project.Data.Connectors.csproj", "{DE07CEA8-2261-4AE7-934E-FEEEBE3E2440}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{7DD9F6DC-E565-40FC-9031-76ED99D8E3A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Domain", "Project.Data.Domain\Project.Domain.csproj", "{582DE563-9D29-4195-B7CA-64521AA547AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{6D10CA60-4F54-4321-BB99-8B070AD45278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Tools", "Project.Tools\Project.Tools.csproj", "{A7FC35B3-E4BC-41BB-BFF9-0335E2AE83D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DistributedServices", "DistributedServices", "{3B430488-87C3-490B-83F3-1CE5934F6E69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvidersService", "ProvidersService\ProvidersService.csproj", "{78B8F190-59F3-44A0-871C-5A9E38F19FA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{2B5B7764-060B-440C-A5EB-27076DC65A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Application.Core", "Project.Application.Core\Project.Application.Core.csproj", "{3C6F2CEF-652F-4003-98C1-B39681CCFD3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Application.Dto", "Project.Application.Dto\Project.Application.Dto.csproj", "{9A88BAF6-A1B1-45C2-B8A0-840ED0919A80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Crosscutting", "Crosscutting", "{9DEC4654-B85B-4AF8-842E-C952FF65AC61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Crosscutting.Bootstrapper", "Project.Crosscutting.Bootstrapper\Project.Crosscutting.Bootstrapper.csproj", "{389AA6F8-7EAF-4DB0-AE05-502A1243E57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Application", "Project.Application\Project.Application.csproj", "{4FBE4E8D-3EF1-444B-80F3-55B8A0D83829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Application.DtoConverter", "Project.Application.DtoConverter\Project.Application.DtoConverter.csproj", "{7C4C2E21-A6E9-4155-A42E-65B397FEF307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17782F32-4941-46F4-9464-A7BEDF405736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17782F32-4941-46F4-9464-A7BEDF405736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17782F32-4941-46F4-9464-A7BEDF405736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17782F32-4941-46F4-9464-A7BEDF405736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE07CEA8-2261-4AE7-934E-FEEEBE3E2440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE07CEA8-2261-4AE7-934E-FEEEBE3E2440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE07CEA8-2261-4AE7-934E-FEEEBE3E2440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE07CEA8-2261-4AE7-934E-FEEEBE3E2440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582DE563-9D29-4195-B7CA-64521AA547AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582DE563-9D29-4195-B7CA-64521AA547AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582DE563-9D29-4195-B7CA-64521AA547AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582DE563-9D29-4195-B7CA-64521AA547AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FC35B3-E4BC-41BB-BFF9-0335E2AE83D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FC35B3-E4BC-41BB-BFF9-0335E2AE83D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FC35B3-E4BC-41BB-BFF9-0335E2AE83D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FC35B3-E4BC-41BB-BFF9-0335E2AE83D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B8F190-59F3-44A0-871C-5A9E38F19FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B8F190-59F3-44A0-871C-5A9E38F19FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B8F190-59F3-44A0-871C-5A9E38F19FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B8F190-59F3-44A0-871C-5A9E38F19FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6F2CEF-652F-4003-98C1-B39681CCFD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6F2CEF-652F-4003-98C1-B39681CCFD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6F2CEF-652F-4003-98C1-B39681CCFD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6F2CEF-652F-4003-98C1-B39681CCFD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A88BAF6-A1B1-45C2-B8A0-840ED0919A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A88BAF6-A1B1-45C2-B8A0-840ED0919A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A88BAF6-A1B1-45C2-B8A0-840ED0919A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A88BAF6-A1B1-45C2-B8A0-840ED0919A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389AA6F8-7EAF-4DB0-AE05-502A1243E57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389AA6F8-7EAF-4DB0-AE05-502A1243E57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389AA6F8-7EAF-4DB0-AE05-502A1243E57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389AA6F8-7EAF-4DB0-AE05-502A1243E57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FBE4E8D-3EF1-444B-80F3-55B8A0D83829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBE4E8D-3EF1-444B-80F3-55B8A0D83829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBE4E8D-3EF1-444B-80F3-55B8A0D83829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBE4E8D-3EF1-444B-80F3-55B8A0D83829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4C2E21-A6E9-4155-A42E-65B397FEF307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4C2E21-A6E9-4155-A42E-65B397FEF307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4C2E21-A6E9-4155-A42E-65B397FEF307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4C2E21-A6E9-4155-A42E-65B397FEF307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{17782F32-4941-46F4-9464-A7BEDF405736} = {3264795D-C4B7-4E68-B18C-13D204E687FE}
+		{DE07CEA8-2261-4AE7-934E-FEEEBE3E2440} = {3264795D-C4B7-4E68-B18C-13D204E687FE}
+		{582DE563-9D29-4195-B7CA-64521AA547AA} = {7DD9F6DC-E565-40FC-9031-76ED99D8E3A4}
+		{A7FC35B3-E4BC-41BB-BFF9-0335E2AE83D1} = {6D10CA60-4F54-4321-BB99-8B070AD45278}
+		{78B8F190-59F3-44A0-871C-5A9E38F19FA1} = {3B430488-87C3-490B-83F3-1CE5934F6E69}
+		{3C6F2CEF-652F-4003-98C1-B39681CCFD3B} = {2B5B7764-060B-440C-A5EB-27076DC65A08}
+		{9A88BAF6-A1B1-45C2-B8A0-840ED0919A80} = {2B5B7764-060B-440C-A5EB-27076DC65A08}
+		{389AA6F8-7EAF-4DB0-AE05-502A1243E57D} = {9DEC4654-B85B-4AF8-842E-C952FF65AC61}
+		{4FBE4E8D-3EF1-444B-80F3-55B8A0D83829} = {2B5B7764-060B-440C-A5EB-27076DC65A08}
+		{7C4C2E21-A6E9-4155-A42E-65B397FEF307} = {2B5B7764-060B-440C-A5EB-27076DC65A08}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E633BC18-18F0-4A43-A834-9CF5944961C0}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://iberoservice.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Project.Data.WebApi\\Project.Data.WebApi.csproj
+		SccProjectTopLevelParentUniqueName1 = webbeds.sln
+		SccProjectName1 = Project.Data.WebApi
+		SccLocalPath1 = Project.Data.WebApi
+		SccProjectUniqueName2 = Project.Data.Connectors\\Project.Data.Connectors.csproj
+		SccProjectTopLevelParentUniqueName2 = webbeds.sln
+		SccProjectName2 = Project.Data.Connectors
+		SccLocalPath2 = Project.Data.Connectors
+		SccProjectUniqueName3 = Project.Tools\\Project.Tools.csproj
+		SccProjectTopLevelParentUniqueName3 = webbeds.sln
+		SccProjectName3 = Project.Tools
+		SccLocalPath3 = Project.Tools
+		SccProjectUniqueName4 = Project.Data.Domain\\Project.Domain.csproj
+		SccProjectTopLevelParentUniqueName4 = webbeds.sln
+		SccProjectName4 = Project.Data.Domain
+		SccLocalPath4 = Project.Data.Domain
+		SccProjectUniqueName5 = ProvidersService\\ProvidersService.csproj
+		SccProjectTopLevelParentUniqueName5 = webbeds.sln
+		SccProjectName5 = ProvidersService
+		SccLocalPath5 = ProvidersService
+		SccProjectUniqueName6 = Project.Application.Core\\Project.Application.Core.csproj
+		SccProjectTopLevelParentUniqueName6 = webbeds.sln
+		SccProjectName6 = Project.Application.Core
+		SccLocalPath6 = Project.Application.Core
+		SccProjectUniqueName7 = Project.Application.Dto\\Project.Application.Dto.csproj
+		SccProjectTopLevelParentUniqueName7 = webbeds.sln
+		SccProjectName7 = Project.Application.Dto
+		SccLocalPath7 = Project.Application.Dto
+		SccProjectUniqueName8 = Project.Crosscutting.Bootstrapper\\Project.Crosscutting.Bootstrapper.csproj
+		SccProjectTopLevelParentUniqueName8 = webbeds.sln
+		SccProjectName8 = Project.Crosscutting.Bootstrapper
+		SccLocalPath8 = Project.Crosscutting.Bootstrapper
+		SccProjectUniqueName9 = Project.Application\\Project.Application.csproj
+		SccProjectTopLevelParentUniqueName9 = webbeds.sln
+		SccProjectName9 = Project.Application
+		SccLocalPath9 = Project.Application
+		SccProjectUniqueName10 = Project.Application.DtoConverter\\Project.Application.DtoConverter.csproj
+		SccProjectTopLevelParentUniqueName10 = webbeds.sln
+		SccProjectName10 = Project.Application.DtoConverter
+		SccLocalPath10 = Project.Application.DtoConverter
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Domain\bin\Debug\Project.Data.Domain.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Domain\bin\Debug\Project.Data.Domain.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Domain\obj\Debug\Project.Domain.csproj.CoreCompileInputs.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Domain\obj\Debug\Project.Data.Domain.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.Domain\obj\Debug\Project.Data.Domain.pdb

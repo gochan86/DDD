@@ -1,0 +1,12 @@
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\obj\Debug\Project.Data.WebApi.csprojAssemblyReference.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\obj\Debug\Project.Data.WebApi.csproj.CoreCompileInputs.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\bin\Debug\Project.Data.WebApi.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\bin\Debug\Project.Data.WebApi.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\bin\Debug\Newtonsoft.Json.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\bin\Debug\Project.Data.Domain.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\bin\Debug\Project.Data.Domain.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\bin\Debug\Newtonsoft.Json.xml
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\obj\Debug\Project.Data.WebApi.csproj.CopyComplete
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\obj\Debug\Project.Data.WebApi.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\obj\Debug\Project.Data.WebApi.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Data.WebApi\bin\Debug\Newtonsoft.Json.pdb

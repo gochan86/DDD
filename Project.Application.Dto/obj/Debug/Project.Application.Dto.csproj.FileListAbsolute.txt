@@ -1,0 +1,5 @@
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Dto\bin\Debug\Project.Application.Dto.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Dto\bin\Debug\Project.Application.Dto.pdb
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Dto\obj\Debug\Project.Application.Dto.csproj.CoreCompileInputs.cache
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Dto\obj\Debug\Project.Application.Dto.dll
+C:\tfs\Apps\SaaSIbs\webbeds\Project.Application.Dto\obj\Debug\Project.Application.Dto.pdb
